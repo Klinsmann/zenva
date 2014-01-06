@@ -95,16 +95,15 @@ footer{
 	background: #ebebeb;
 	border-top: 10px solid #009d85;
 	box-shadow: 0 5px 10px rgba(0,0,0,0.5);
-	height: 400px;
 	margin-top: 70px;
 	overflow: hidden; 
+	padding: 0;
 }
-	.cursos-destacados h2, .cursos-destacados ul{
+	.cursos-destacados h2, .cursos{
 		color: #009d85;
-		
 	}
-	.cursos-destacados ul li{
-		margin-right: 12px;
+	.cursos{
+		text-align: center;
 	}
 
 	.cursos-destacados h2{
@@ -119,17 +118,16 @@ footer{
 		margin-bottom: 15px;
 	}
 
-	.cursos li{
-		display: inline-block;
-		vertical-align: top;
-		width: 290px;
+	.cursos div{
+		padding-bottom: 20px;
 	}
-	.cursos p{
+	.cursos  p{
 		color: #868686;
 	}
 	.cursos a, .cursos a:hover{
 		color: #47f2cf;
 		text-decoration: none;
+		text-shadow: 0 0 1px rgba(0,0,0,0.1);
 	}
 
 .testimonios-ultimos_articulos{
@@ -244,18 +242,23 @@ footer{
 	}
 	.cabecera ul{
 		margin:20px 20px 0 0;
+
 	}
 ul.list-portafolio{
+	padding: 0;
 	text-align: center;
-}
+	}
+
 	.list-portafolio li{
 		background: #ebebeb;
 		border-left: 10px solid #009d85;
 		display: inline-block;
 		height: 280px;
-		margin-right: 10px;
 		margin-top: 20px;
 		width: 268px;
+		position: relative;
+		margin-right: 21px;
+		left: 10px;
 	}
 		.list-portafolio h3{
 			color: #009d85;
