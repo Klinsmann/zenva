@@ -240,10 +240,9 @@ footer{
 		margin-left: 30px;
 		padding-left: 40px;
 	}
-	.cabecera ul{
-		margin:20px 20px 0 0;
-
-	}
+		.cabecera ul{
+			margin:20px 20px 0 0;
+		}
 ul.list-portafolio{
 	padding: 0;
 	text-align: center;
@@ -257,8 +256,12 @@ ul.list-portafolio{
 		margin-top: 20px;
 		width: 268px;
 		position: relative;
-		margin-right: 21px;
-		left: 10px;
+		margin-right: 28px;
+	}
+	.list-portafolio li:nth-child(4n){
+		position: relative;
+		right: 0;
+		margin-right: 0;
 	}
 		.list-portafolio h3{
 			color: #009d85;
