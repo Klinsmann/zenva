@@ -206,23 +206,23 @@ footer{
 		
 	}
 	.socials-footer .tw{
-		background: url(../images/sociales.jpg) no-repeat 0 -22px;
+		background: url(../images/sociales.jpg) no-repeat 0 -23px;
 	}
 
 	.socials-footer .sk{
-		background: url(../images/sociales.jpg) no-repeat 0 -44px;
+		background: url(../images/sociales.jpg) no-repeat 0 -46px;
 	}
 
 	.socials-footer .in{
-		background: url(../images/sociales.jpg) no-repeat 0 -65px;
+		background: url(../images/sociales.jpg) no-repeat 0 -69px;
 	}
 
 	.socials-footer .g{
-		background: url(../images/sociales.jpg) no-repeat 0 -86px;
+		background: url(../images/sociales.jpg) no-repeat 0 -92px;
 	}
 
 	.socials-footer .yt{
-		background: url(../images/sociales.jpg) no-repeat 0 -106px;
+		background: url(../images/sociales.jpg) no-repeat 0 -115px;
 	}
 /************PORTAFOLIO***********/
 
@@ -379,10 +379,11 @@ form #submit{
 	}
 
 .socials-mapa .g{
-		background: url(../images/sociales2.jpg) no-repeat 0 -155px;
+		background: url(../images/sociales2.jpg) no-repeat 0 -156px;
+		height: 39px;
 	}
 	.socials-mapa .g:hover{
-		background: url(../images/sociales2.jpg) no-repeat -40px -155px;
+		background: url(../images/sociales2.jpg) no-repeat -40px -156px;
 	}
 
 .socials-mapa .yt{
